@@ -1,0 +1,101 @@
+#EXTM3U
+#EXTINF:-1 group-title="Kroatien",HR: RTL Passion HD
+http://k.lf.mk:8037/live/ksport-restram/486278768/617.ts
+#EXTINF:-1 group-title="Kroatien",HR: RTL Living HD
+http://k.lf.mk:8037/live/ksport-restram/486278768/619.ts
+#EXTINF:-1 group-title="Kroatien",HR: RTL Kockica HD
+http://k.lf.mk:8037/live/ksport-restram/486278768/616.ts
+#EXTINF:-1 group-title="Kroatien",HR: RTL CRIME HD
+http://k.lf.mk:8037/live/ksport-restram/486278768/618.ts
+#EXTINF:-1 group-title="Kroatien",HR: RTL 2 HD
+http://k.lf.mk:8037/live/ksport-restram/486278768/615.ts
+#EXTINF:-1 group-title="Kroatien",HR: NOVA HR HD
+http://k.lf.mk:8037/live/ksport-restram/486278768/632.ts
+#EXTINF:-1 group-title="Kroatien",HR: HRT 5 HD
+http://k.lf.mk:8037/live/ksport-restram/486278768/614.ts
+#EXTINF:-1 group-title="Kroatien",HR: HRT 4 HD
+http://k.lf.mk:8037/live/ksport-restram/486278768/613.ts
+#EXTINF:-1 group-title="Kroatien",HR: HBO Adria HD
+http://k.lf.mk:8037/live/ksport-restram/486278768/630.ts
+#EXTINF:-1 group-title="Kroatien",HR: FilmBox Plus HD
+http://k.lf.mk:8037/live/ksport-restram/486278768/629.ts
+#EXTINF:-1 group-title="Kroatien",HR: FilmBox Extra HD
+http://k.lf.mk:8037/live/ksport-restram/486278768/628.ts
+#EXTINF:-1 group-title="Kroatien",HR: Doma TV HD
+http://k.lf.mk:8037/live/ksport-restram/486278768/633.ts
+#EXTINF:-1 group-title="Kroatien",HR: DIVA HD
+http://k.lf.mk:8037/live/ksport-restram/486278768/631.ts
+#EXTINF:-1 group-title="Kroatien",HR: CINESTAR TV HD
+http://k.lf.mk:8037/live/ksport-restram/486278768/624.ts
+#EXTINF:-1 group-title="Kroatien",HR: Cinestar Premiere 2 HD
+http://k.lf.mk:8037/live/ksport-restram/486278768/621.ts
+#EXTINF:-1 group-title="Kroatien",HR: Cinestar Premiere 1 HD
+http://k.lf.mk:8037/live/ksport-restram/486278768/620.ts
+#EXTINF:-1 group-title="Kroatien",HR: CINESTAR FANTASY HD
+http://k.lf.mk:8037/live/ksport-restram/486278768/626.ts
+#EXTINF:-1 group-title="Kroatien",HR: Cinestar Comedy HD
+http://k.lf.mk:8037/live/ksport-restram/486278768/627.ts
+#EXTINF:-1 group-title="Kroatien",HR: CINESTAR ACTION HD
+http://k.lf.mk:8037/live/ksport-restram/486278768/625.ts
+#EXTINF:-1 group-title="Kroatien",HR: CINEMAX-2 HD
+http://k.lf.mk:8037/live/ksport-restram/486278768/623.ts
+#EXTINF:-1 group-title="Kroatien",HR: CINEMAX-1 HD
+http://k.lf.mk:8037/live/ksport-restram/486278768/622.ts
+#EXTINF:-1 group-title="MACEDONIA",**** EX-YU ****
+http://k.lf.mk:8037/live/ksport-restram/486278768/73.ts
+#EXTINF:-1 group-title="SPORT",RS: Arena Sport 5 HD
+http://k.lf.mk:8037/live/ksport-restram/486278768/268.ts
+#EXTINF:-1 group-title="SPORT",RS: Arena Sport 4 HD
+http://k.lf.mk:8037/live/ksport-restram/486278768/267.ts
+#EXTINF:-1 group-title="SPORT",RS: Arena Sport 3 HD
+http://k.lf.mk:8037/live/ksport-restram/486278768/266.ts
+#EXTINF:-1 group-title="SPORT",RS: Arena Sport 2 HD
+http://k.lf.mk:8037/live/ksport-restram/486278768/264.ts
+#EXTINF:-1 group-title="SPORT",RS: Arena Sport 1 HD
+http://k.lf.mk:8037/live/ksport-restram/486278768/265.ts
+#EXTINF:-1 group-title="SPORT",HR: Arena Sport 5 HD
+http://k.lf.mk:8037/live/ksport-restram/486278768/273.ts
+#EXTINF:-1 group-title="SPORT",HR: Arena Sport 4 HD
+http://k.lf.mk:8037/live/ksport-restram/486278768/272.ts
+#EXTINF:-1 group-title="SPORT",HR: Arena Sport 3 HD
+http://k.lf.mk:8037/live/ksport-restram/486278768/271.ts
+#EXTINF:-1 group-title="SPORT",HR: Arena Sport 2 HD
+http://k.lf.mk:8037/live/ksport-restram/486278768/270.ts
+#EXTINF:-1 group-title="SPORT",HR: Arena Sport 1 HD
+http://k.lf.mk:8037/live/ksport-restram/486278768/269.ts
+#EXTINF:-1 group-title="EX-YU",EX: Pink Zabava
+http://k.lf.mk:8037/live/ksport-restram/486278768/67.ts
+#EXTINF:-1 group-title="EX-YU",EX: Pink World
+http://k.lf.mk:8037/live/ksport-restram/486278768/68.ts
+#EXTINF:-1 group-title="EX-YU",EX: Pink Western
+http://k.lf.mk:8037/live/ksport-restram/486278768/64.ts
+#EXTINF:-1 group-title="EX-YU",EX:  Pink Action
+http://k.lf.mk:8037/live/ksport-restram/486278768/69.ts
+#EXTINF:-1 group-title="EX-YU",EX:  Pink Comedy
+http://k.lf.mk:8037/live/ksport-restram/486278768/70.ts
+#EXTINF:-1 group-title="EX-YU",EX: PINK SERIJE
+http://k.lf.mk:8037/live/ksport-restram/486278768/62.ts
+#EXTINF:-1 group-title="EX-YU",EX: Pink Reality
+http://k.lf.mk:8037/live/ksport-restram/486278768/71.ts
+#EXTINF:-1 group-title="EX-YU",EX: Pink Premium
+http://k.lf.mk:8037/live/ksport-restram/486278768/72.ts
+#EXTINF:-1 group-title="EX-YU",EX: Pink Pedia
+http://k.lf.mk:8037/live/ksport-restram/486278768/63.ts
+#EXTINF:-1 group-title="EX-YU",EX: Pink Plus TV
+http://k.lf.mk:8037/live/ksport-restram/486278768/61.ts
+#EXTINF:-1 group-title="EX-YU",EX: Pink Music 2
+http://k.lf.mk:8037/live/ksport-restram/486278768/60.ts
+#EXTINF:-1 group-title="EX-YU",EX: Pink Music
+http://k.lf.mk:8037/live/ksport-restram/486278768/59.ts
+#EXTINF:-1 group-title="EX-YU",EX: Pink LoL
+http://k.lf.mk:8037/live/ksport-restram/486278768/58.ts
+#EXTINF:-1 group-title="EX-YU",EX: Pink Hits 1
+http://k.lf.mk:8037/live/ksport-restram/486278768/57.ts
+#EXTINF:-1 group-title="EX-YU",EX: Pink HaHa
+http://k.lf.mk:8037/live/ksport-restram/486278768/56.ts
+#EXTINF:-1 group-title="EX-YU",EX: Pink 2
+http://k.lf.mk:8037/live/ksport-restram/486278768/66.ts
+#EXTINF:-1 group-title="EX-YU",EX: Pink
+http://k.lf.mk:8037/live/ksport-restram/486278768/65.ts
+#EXTINF:-1 group-title="EX-YU",http://k.lf.mk:8037/get.php?username=ksport-restram&password=486278768&type=m3u_plus
+http://k.lf.mk:8037/live/ksport-restram/486278768/398.ts
